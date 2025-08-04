@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dawa</string>
+    <string name="search_drug">ابحث عن دواء</string>
+    <string name="drug_name_hint">أدخل اسم الدواء</string>
+    <string name="search_button">بحث</string>
+    <string name="drug_info">معلومات الدواء</string>
+    <string name="benefits">الفوائد</string>
+    <string name="side_effects">الآثار الجانبية</string>
+    <string name="dosage">الجرعة</string>
+    <string name="when_to_take">متى يُتناول</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error_occurred">حدث خطأ أثناء البحث</string>
+    <string name="no_results">لم يتم العثور على نتائج</string>
+    <string name="powered_by">مدعوم بواسطة openFDA</string>
+</resources>
+
